@@ -1,11 +1,14 @@
+# ROS2 빌드 산출물 제외
 build/
 install/
 log/
+
+# 파이썬 캐시 제외
 __pycache__/
 *.pyc
-*.usd
+
+# AI 및 기타 설정 제외
 .claude/
 *.onnx
 *.pt
 *.pth
-Collected_*/
