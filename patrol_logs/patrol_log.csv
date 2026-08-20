@@ -1,0 +1,4 @@
+cycle,point,wall_time,ros_time_sec,camera_time_sec,x,y,image_file
+1,P1,2026-08-20T10:55:14.875+09:00,1787190914.897,462.500,0.204,1.406,/home/rokey/cobot3_ws/patrol_logs/images/cycle_001_P1_20260820_105514_875.jpg
+1,P2,2026-08-20T10:55:44.498+09:00,1787190944.507,478.683,6.627,2.203,/home/rokey/cobot3_ws/patrol_logs/images/cycle_001_P2_20260820_105544_498.jpg
+1,P3,2026-08-20T10:56:24.726+09:00,1787190984.755,500.517,-1.49,-2.555,/home/rokey/cobot3_ws/patrol_logs/images/cycle_001_P3_20260820_105624_726.jpg
